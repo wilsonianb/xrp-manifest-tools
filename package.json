@@ -1,0 +1,14 @@
+{
+  "name": "xrp-manifest-tools",
+  "version": "0.1.0",
+  "description": "XRP Ledger validator manifest tools",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "ripple-address-codec": "^2.0.1",
+    "ripple-binary-codec": "^0.1.14"
+  }
+}
